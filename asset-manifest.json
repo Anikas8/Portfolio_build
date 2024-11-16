@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.85af6e45.css",
+    "main.js": "/static/js/main.321446bc.js",
+    "static/media/6.png": "/static/media/6.2c7b627685bd27817d5d.png",
+    "static/media/2.png": "/static/media/2.7b6a1af28c0ca52e25d9.png",
+    "static/media/untitled.jpg": "/static/media/untitled.e6148b69b273eea8ce4e.jpg",
+    "static/media/1.jpg": "/static/media/1.bcd8986736430845e2f4.jpg",
+    "static/media/3.jpg": "/static/media/3.1a6f88fb1e2741127826.jpg",
+    "static/media/4.jpg": "/static/media/4.0fd65a3edaa94abfae06.jpg",
+    "static/media/5.jpg": "/static/media/5.b5e1299a5155f6f50512.jpg",
+    "static/media/21BAI10212.jpg": "/static/media/21BAI10212.7a391f297b7da43e11bb.jpg",
+    "static/media/Anika Saxena logo.svg": "/static/media/Anika Saxena logo.b2ee8b0848c4d5517624fac2e639b667.svg",
+    "index.html": "/index.html",
+    "main.85af6e45.css.map": "/static/css/main.85af6e45.css.map",
+    "main.321446bc.js.map": "/static/js/main.321446bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85af6e45.css",
+    "static/js/main.321446bc.js"
+  ]
+}
